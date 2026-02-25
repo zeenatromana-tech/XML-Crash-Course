@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student>
+    <name>Ali</name>
+    <age>22</age>
+    <course>Computer Science</course>
+</student>
+Explanation
+Element	Description
+<?xml?>	XML declaration
+<student>	Root element
+<name>	Child element
+<age>	Child element
+<course>	Child element
