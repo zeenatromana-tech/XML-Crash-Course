@@ -1,0 +1,21 @@
+XML must have one root element.
+
+Every tag must have a closing tag.
+
+XML is case sensitive.
+
+Attribute values must be in quotes.
+
+Tags must be properly nested.
+
+Correct example:
+
+<student>
+    <name>Ali</name>
+</student>
+
+Incorrect example:
+
+<student>
+<name>Ali</student>
+</name>
