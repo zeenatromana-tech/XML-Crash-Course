@@ -1,0 +1,10 @@
+Comments help explain XML code.
+
+<!-- This is a comment -->
+
+Example:
+
+<!-- Student Data -->
+<student>
+    <name>Ali</name>
+</student>
