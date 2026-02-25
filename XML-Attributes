@@ -1,0 +1,9 @@
+Attributes give extra information about elements.
+
+Example:
+
+<student id="101">
+    <name>Ali</name>
+</student>
+
+Here id="101" is an attribute.
