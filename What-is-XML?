@@ -1,0 +1,7 @@
+XML allows you to create your own tags to describe data.
+
+Example:
+
+<name>Ali</name>
+
+Here name is the tag and Ali is the value.
