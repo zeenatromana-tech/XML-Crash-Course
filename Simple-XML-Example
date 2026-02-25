@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<books> 
+<book> <title>XML Basics</title>
+<author>John</author>
+</book> 
+<book> 
+<title>Web Development</title>
+<author>Ali</author>
+</book>
+</books>
